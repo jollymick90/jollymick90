@@ -51,7 +51,7 @@ I created this web app to share the project with my hackathon teammates as a Sec
 
 ## 🏆 Hackathons
 
-### Space Apps Challenge
+### Space Apps Challenge (October 2024)
 
 Our goal is to make astronauts' workouts less boring!
 To achieve this, we're developing a series of mini‑games that can be integrated with training equipment like treadmills and rowers, focusing on engaging different body parts—especially the hands and head. We launched with three mini‑games: **Space Jogger**, **Astray**, and **Star Float**. I built **Star Float**.
